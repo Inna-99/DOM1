@@ -1,5 +1,5 @@
-function myClass(myScreen, myKeyboard) { 
-
+let newElement = document.createElement('input');
+document.body.appendChild(newElement);
 
 
 
@@ -11,4 +11,3 @@ function myClass(myScreen, myKeyboard) {
 
 
     
-}
