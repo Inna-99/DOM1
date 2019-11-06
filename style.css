@@ -1,7 +1,8 @@
-  .input {
+input {
         display: block;
-        height: 216px;
+        height: 200px;
         width: 672px;
         margin-left: auto;
         margin-right: auto;
-    }
+        color: blue;
+      }
